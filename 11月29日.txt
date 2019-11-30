@@ -1,0 +1,7 @@
+1.事件  触发：hover()  
+            点击：click() 
+2.方法  添加类：addClass() 删除类：removeClass() 隐藏：hide() 参数 = 时间  
+            显现：show()   淡出： fadeOut  淡入：fadeIn()  上滑：slideUp() 
+            下滑：sildeDown  确定选择元素是否正确  is()  
+            被选择元素 下一个   的同级元素   next()
+3.上滑 和 淡出 有合并写法 方法名+Toggle()  隐藏 没有

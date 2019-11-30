@@ -1,0 +1,18 @@
+1. 引入 cdn jquery 链接
+2. 必写在 jQuery 实例中 
+     (1). 第一种方式
+     $(document).ready(function(){
+  	
+     })；
+     (2). 第二种方式
+     $((function(){
+  	
+     })；
+3. 事件 click、hover
+8. 添加 样式 addClass(); 删除 removeClass()
+4. 选择器 $();
+5. 表单 获取值 val();
+6. 非表单 text();
+7. val() 里面没有值 = 取值  有参数  = 赋值；
+8. window.sessionStorage.setItem('值name', 值)；//取值 存储在网页中
+    window.sessionStorage.getItem( 值)；// 获取值	
